@@ -25,8 +25,6 @@ KNIME impulsa la **toma de decisiones basada en datos**, mejora la **eficiencia 
 
 ---
 
-## 🧩 Resumen de la presentación: *“Charla - ML IA”*
-
 ### 1. Introducción  
 La charla plantea un **acercamiento práctico al Machine Learning (ML) y la Inteligencia Artificial (IA)** usando plataformas **No-Code / Low-Code** como KNIME.  
 Se destacan dos paradigmas:
